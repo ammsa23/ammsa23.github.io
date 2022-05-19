@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/stat110
 venue: "Harvard Statistics Department"
-date: Fall 2021
+date: 2021
 location: "Cambridge, MA"
 ---
 

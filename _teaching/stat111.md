@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/stat111
 venue: "Harvard Statistics Department"
-date: Spring 2022
+date: 2022
 location: "Cambridge, MA"
 ---
 

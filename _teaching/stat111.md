@@ -4,11 +4,10 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/stat111
 venue: "Harvard Statistics Department"
-date: 2022
 location: "Cambridge, MA"
 ---
 
-I prepared handwritten materials to lead a discussion section, held joint office hours with Ginnie Ma and Rachel Li, and graded problem sets and exams. 
+I taught this course during the Spring 2022 term. I prepared handwritten materials to lead a discussion section, held joint office hours with Ginnie Ma and Rachel Li, and graded problem sets and exams. 
 
 Description
 ======

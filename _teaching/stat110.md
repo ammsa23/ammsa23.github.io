@@ -4,11 +4,10 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/stat110
 venue: "Harvard Statistics Department"
-date: 2021
 location: "Cambridge, MA"
 ---
 
-I co-taught this course with Kavya Shah. Together, we prepared materials for and led a discussion section, held joint office hours, and graded problem sets and exams. 
+I co-taught this course with Kavya Shah in during the Fall 2021 term. Together, we prepared materials for and led a discussion section, held joint office hours, and graded problem sets and exams. 
 
 Description
 ======

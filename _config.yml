@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ammaar Saeed"
 title_separator          : "-"
 name                     : &name "Ammaar Saeed"
-description              : &description "I'm a fourth-year undergrad @ Harvard studying Biology and Statistics."
+description              : &description "I'm a Senior @ Harvard studying Biology and Statistics."
 url                      : https://ammsa23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ammsa23/ammsa23.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ammaar Saeed"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Senior @ Harvard studying Biology and Statistics"
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            : "aasaeed@college.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : " https://orcid.org/0000-0002-6558-8314"
+  linkedin         : "https://www.linkedin.com/in/ammaar-saeed-5a0a20189/"
+  orcid            : "https://orcid.org/0000-0002-6558-8314"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

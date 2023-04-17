@@ -11,4 +11,4 @@ I have helped out with this course during the Fall 2021 and Spring 2022 terms. I
 
 Description 
 =====
-The College Python Boot Camp introduces students to the basics of programming in Python and fundamental tools in the Scientific Python toolbox like numpy, scipy, and scikit-learn. The course is self-paced for students. The course materials were prepared by the awesome Dr. Nicholas Colella. 
+The College Python Boot Camp introduces students to the basics of programming in Python and fundamental tools in the Scientific Python toolbox like numpy, scipy, and scikit-learn. The course is self-paced for students. The course materials were prepared by Dr. Nicholas Colella. 

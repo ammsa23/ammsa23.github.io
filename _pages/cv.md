@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Candidate for B.A. in Chemical and Physical Biology, Secondary in Statistics, Harvard University, 2023 
+* Candidate for M.Phil. in Biological Science (MRC-LMB), University of Cambridge, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Summer Research Intern
+  * Worcester Polytechnic Institute
+  * Studied 
+  * Supervisor: Prof. Dmitry Korkin, Dr. Suhas Srinisvasan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020 - Spring 2023: Research Assistant
+  * Harvard University
+  * Studied 
+  * Supervisor: Prof. Doeke Hekstra, Maggie Klureza 
   
 Skills
 ======
@@ -42,11 +41,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Director of Kesem Harvard Undergraduate (2022-23)

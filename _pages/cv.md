@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Candidate for B.A. in Chemical and Physical Biology, Secondary in Statistics, Harvard University, 2023 
-* Candidate for M.Phil. in Biological Science (MRC-LMB), University of Cambridge, 2024
+<!-- * Candidate for M.Phil. in Biological Science (MRC-LMB), University of Cambridge, 2024 -->
 
 Work experience
 ======

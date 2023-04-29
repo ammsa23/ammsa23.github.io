@@ -18,13 +18,13 @@ Work experience
 ======
 * Summer 2018: Summer Research Intern
   * Worcester Polytechnic Institute
-  * Studied 
-  * Supervisor: Prof. Dmitry Korkin, Dr. Suhas Srinisvasan
+  * Studied the spread of infectious diseases on a cruise ship 
+  * Supervisors: Prof. Dmitry Korkin, Dr. Suhas Srinisvasan
 
 * Summer 2020 - Spring 2023: Research Assistant
   * Harvard University
   * Studied 
-  * Supervisor: Prof. Doeke Hekstra, Maggie Klureza 
+  * Supervisors: Prof. Doeke Hekstra, Maggie Klureza 
   
 Skills
 ======

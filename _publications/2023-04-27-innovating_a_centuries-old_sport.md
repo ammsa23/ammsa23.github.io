@@ -8,6 +8,6 @@ venue: 'Harvard Data Science Review'
 paperurl: 'https://doi.org/10.1162/99608f92.1ea13423'
 citation: 'Shah, K. M., & Saeed, A. A. (2023). Innovating a Centuries-Old Sport: How Emerging Data Analytics Tools Are Redefining Cricket. Harvard Data Science Review, 5(2). https://doi.org/10.1162/99608f92.1ea13423'
 ---
-Cricket is one of the oldest organized sports in the world, originating in the late 16th century. In this article, Kavya Shah and I describe developments in the marriage of data science and cricket that have the potential to bring a SABR-like revolution to the sport. Find the article [here](https://doi.org/10.1162/99608f92.1ea13423).
+Cricket is one of the oldest organized sports in the world, originating in the late 16th century. In this article, Kavya Shah and I describe developments in the marriage of data science and cricket that have the potential to bring a SABR-like revolution to the sport. Find the article [here](https://doi.org/10.1162/99608f92.1ea13423) and a PDF version [here](../files/shah_saeed_23.pdf).
 
 Recommended citation: Shah, K. M., & Saeed, A. A. (2023). Innovating a Centuries-Old Sport: How Emerging Data Analytics Tools Are Redefining Cricket. Harvard Data Science Review, 5(2). https://doi.org/10.1162/99608f92.1ea13423

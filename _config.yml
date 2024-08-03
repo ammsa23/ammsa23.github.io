@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ammaar Saeed"
 title_separator          : "-"
 name                     : &name "Ammaar Saeed"
-description              : &description "I'm a Senior @ Harvard studying Biology and Statistics."
+description              : &description "Biophysics PhD student at Harvard"
 url                      : https://ammsa23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ammsa23/ammsa23.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ammaar Saeed"
   avatar           : "profile.jpg"
-  bio              : "Senior @ Harvard studying Biology and Statistics"
+  bio              : "Incoming PhD student in the Harvard Biophysics Program"
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            : "aasaeed@college.harvard.edu"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=fS9ZP5AAAAAJ&hl=en&oi=ao"
+  email            : "ammaar_saeed@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ammsa23"
+  twitter          : "AmmaarSaeed3"
   vine             :
   weibo            :
   xing             :
